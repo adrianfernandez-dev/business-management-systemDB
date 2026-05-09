@@ -71,19 +71,6 @@ The SQL database script is included in:
 4. Open the solution in Visual Studio 2022
 5. Run the project
 
----
-
-## 📸 Screenshots
-
-*Add screenshots of the application here.*
-
-Example:
-
-```text id="3t7pnh"
-/screenshots/
-```
-
----
 
 ## 📌 Project Structure
 
